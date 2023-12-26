@@ -1,0 +1,16 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/" },
+    { "src": "/info", "dest": "/" },
+    { "src": "/Privacy", "dest": "/" },
+    { "src": "/monuments", "dest": "/" },
+    { "src": "/diesel", "dest": "/" },
+    { "src": "/decay", "dest": "/" },
+    { "src": "/statistics", "dest": "/" },
+    { "src": "/breeder", "dest": "/" },
+    { "src": "/cameras", "dest": "/" },
+    { "src": "/raidtable", "dest": "/" }
+    
+    
+  ]
+}

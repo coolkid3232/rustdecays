@@ -1,0 +1,219 @@
+{
+    "materials": {
+        "wood": "Wood",
+        "stone": "Stone",
+        "metal": "Metal",
+        "hq": "High Quality Metal",
+        "dw": "Wooden Door",
+        "dm": "Sheet Metal Door",
+        "dg": "Garaje Door",
+        "dq": "Armored Door"
+    },
+    "messages": {
+        "title": "Rust decay calculator",
+        "info1": "Choose the materials to calculate the remaining time",
+        "info2": "Type of material",
+        "info3": "Structure HP",
+        "info4": "Calculate",
+        "info5": "Consider that the decay time goes from the outside in, the further you are from the TC the less time it will take to fall, so it is an approximate time"
+    },
+
+    "home":{
+        "decay": "You can insert the type of material and the remaining hp, it will give you a fairly approximate time of when the structure will decay.",
+        "raid": "You can choose the type of structure and see how much it would cost depending on the weapon/explosive.",
+        "add-genes": "Add Genes: ",
+        "add-genes-message": "Insert the genes you have collected.",
+        "target": "Target: ",
+        "target-message": "The objective of your genetics, insert the one you prefer (the order does not matter) and the calculator will take care of getting as close as possible with the genetics you have offered.",
+        "available-genetics": "Available Genetics:",
+        "available-genetics-message":"The list of genes you have entered.",
+        "breeding-genetics": "Breeding Genetics: ",
+        "breeding-genetics-message": "The genes that you have to mix to obtain the result indicated below, I recommend using as the recipient plant the one that contains the most G.",
+        "result": "Result: ",
+        "result-message": "The result you will get, if you get more than one result it means that there are 50% probabilities in some columns."
+    },
+    "raid":{
+        "twig":"TWIG BUILD",
+        "wood":"WOOD BUILD",
+        "stone":"STONE BUILD",
+        "metal":"METAL BUILD",
+        "hq":"HQ BUILD",
+        "wood-door":"WOODEN DOOR",
+        "metal-door":"METAL DOOR",
+        "garage-door":"GARAGE DOOR",
+        "armored-door":"ARMORED DOOR",
+        "ladder-hatch":"LADDER HATCH",
+        "wooden-wall":"WOODEN WALL",
+        "stone-wall":"STONE WALL"
+    },
+    "crossbreeding":{
+        "add-genes": "Add Genes",
+        "target": "Target",
+        "available-genetics": "Available Genetics",
+        "breeding-genetics": "Breeding Genetics",
+        "result": "Result",
+        "insert": "Insert",
+        "target-info": "Enter the desired genetics for example YYYGGG (which is the same as YGYYGG, the order does not matter).",
+        "result-info": "The result you will get, if you get more than one result it means that there are 50% probabilities in some columns."
+    },
+    "policy": {
+        "privacy": "Privacy Policy",
+        "text-privacy":"We appreciate your interest in our web page dedicated to providing information about Rust. The privacy and security of your personal data are of the utmost importance to us. The following is our privacy policy, which describes how we collect, use and protect the information you provide to us while using our website.",
+        "info": "Information gathering",
+        "text-info": "Our website is designed to provide information about Rust, and we do not require users to enter personal information to use our tools or access the information provided. However, we may collect non-personal and anonymous information automatically through technologies such as cookies and server logs. This data is used to improve the functionality and performance of our website, and cannot be used to identify you personally.",
+        "use": "Use of information",
+        "text-use":"The automatically collected non-personal information is used to improve your experience on our website, analyze trends and gather demographic data. We will not share this information with third parties without your explicit consent.",
+        "security": "Security of the information",
+        "text-security":"We are committed to protecting the information we collect. We implement appropriate security measures to protect your data against unauthorized access, modification, disclosure or destruction.",
+        "external": "External links",
+        "text-external": "Our website may contain links to external websites that are not under our control. We are not responsible for the privacy practices or the content of such websites. We recommend that you review the privacy policies of any website you access from our page.",
+        "change": "Privacy Policy Changes",
+        "text-change":"We reserve the right to modify this privacy policy at any time. Any changes made will be posted on this page with an updated effective date. We encourage you to periodically review this policy to be aware of any changes.",
+        "contact": "Contact Us",
+        "text-contact": "If you have any questions or concerns about our privacy policy, or if you wish to exercise your rights in relation to your personal data, please contact us through the following email: alvarito19992009@hotmail.com. Thank you for trusting us and using our website to obtain information about the video game."
+
+    },
+    "mname":{
+        "water": "Water Treatment",
+        "power": "Power Plant",
+        "harbor": "Harbor",
+        "harbors": "Small Harbor",
+        "harborl": "Large Harbor",
+        "airfield": "Airfield",
+        "junkyard": "Junkyard",
+        "launch": "Launch Site",
+        "lighthouse": "Lighthouse",
+        "tunel": "Military Tunnel",
+        "silo": "Nuclear Missile Silo",
+        "satelite": "Satellite Dish",
+        "sewer": "Sewer Branch",
+        "train": "Train Yard",
+        "oxum": "Oxum's Gas Station",
+        "supermarket": "Supermarket",
+        "outpost": "Buy at Outpost",
+        "oilrigl": "Large Oilrig"
+    },
+
+    "misc": {
+        "green": "Green Keycard",
+        "blue": "Blue Keycard",
+        "red": "Red Keycard",
+        "rad": "25 rad protection",
+        "rad27": "27 rad protection from the middle of the tunnel",
+        "rad10": "10 rad protection",
+        "radlaunch": "Behind red keycard requires Rad suit and water",
+        "monument": "Monuments",
+        "fuse": "Electric Fuse",
+        "guns": "Guns to kill NPC's",
+        "optional": "(optional)",
+        "color": "Keycard color",
+        "find": "Where to find"
+
+    },
+
+    "time":{
+        "hour": "hour",
+        "hours": "hours",
+        "second": "second",
+        "seconds": "seconds"
+    },
+
+    "navbar":{
+        "decay": "Decay Calculator",
+        "raid": "Raid Table",
+        "genetic": "Genetic",
+        "cameras": "Cameras",
+        "statistics": "Statistics",
+        "monuments": "Monuments",
+        "puzzles": "Monuments Puzzles",
+        "diesel": "Diesel Location",
+        "privacy": "Privacy and Contact"
+    },
+
+    "statistics":{
+        "input": "Search for a player (Steam ID / Steam Profile Link / Custom Steam URL)",
+        "text": "See how much you have ruined your life"
+    },
+
+    "stats": {
+        "pvp":{
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "headshots": "Headshots",
+            "bullets-hits": "Bullets hit",
+            "bullets-fired": "Bullets fired",
+            "bullets-hit-percent": "Bullets hit %",
+            "headshot-percent": "Headshot %"
+        },
+        "kills":{
+            "scientists": "Scientists",
+            "boars": "Boars",
+            "bears": "Bears",
+            "wolfs": "Wolfs",
+            "chickens": "Chikens",
+            "deers": "Deers",
+            "horses": "Horses"
+        },
+        "bow-hits":{
+            "shotsfired": "Shots fired",
+            "players": "Players",
+            "buildings": "Buildings"
+            
+        },
+        "exposure":{
+            "cold": "Cold",
+            "heat": "Heat",
+            "comfort": "Comfort",
+            "radiation": "Radiation"
+        },
+        "gathered":{
+            "wood": "Wood",
+            "stone": "Stone",
+            "metal": "Metal",
+            "scrap": "Scrap",
+            "cloth": "Cloth",
+            "leather": "Leather",
+            "low-grade": "Low Grade"
+        },
+        "others": {
+            "voicechat": "Voicechat Time",
+            "barrels": "Barrels destroyed",
+            "rockets": "Rockets fired",
+            "inventory": "Inventory opened",
+            "map": "Map opened",
+            "wounded": "Wounded",
+            "blueprints": "Blueprints learned",
+            "notfound": "User not found"
+        },
+        "titles":{
+            "bow-hits": "Bow Hits",
+            "shotgun-hits": "Shotgun-hits",
+            "gathered": "Gathered",
+            "others": "Others",
+            "exposure": "Exposure to (Hours)",
+            "hours": "Hours"
+        }
+    },
+    "index":{
+        "decay-title": "Decay Calculator",
+        "decay-info": "Calculate the remaining time of a construction in decay and loot it first",
+        "raid-title": "Raid Table",
+        "raid-info": "Check how much you need to raid players and optimize your resources",
+        "stats-title": "Statistics",
+        "stats-info": "Comprueba tus estadisticas en servidores oficiales",
+        "cameras-title": "Cameras",
+        "cameras-info": "Get the CCTV camera codes to use it on most monuments in a computer station",
+        "monuments-title": "Monuments Puzzles",
+        "monuments-info": "Learn how to get monuments keycards Green, Blue, Red and get loot",
+        "diesel-title": "Diesel Location",
+        "diesel-info": "Find diesel barrels to obtain resources and use it on excavator and quarrys",
+        "genetics-title": "Genetics",
+        "genetics-info": "Create the best genetics for your garden plants, get the perfect genetic"
+    },
+    "input":{
+        "search": "Search for a player (Steam ID / Steam Profile Link / Custom Steam URL)",
+        "ruined": "See how much you have ruined your life"
+    }
+
+    
+}
